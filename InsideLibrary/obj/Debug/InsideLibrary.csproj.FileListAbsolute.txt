@@ -1,0 +1,20 @@
+E:\c#\visualstudioproj\HELP\InsideLibrary\bin\Debug\InsideLibrary.dll
+E:\c#\visualstudioproj\HELP\InsideLibrary\bin\Debug\InsideLibrary.pdb
+E:\c#\visualstudioproj\HELP\InsideLibrary\obj\Debug\InsideLibrary.csprojAssemblyReference.cache
+E:\c#\visualstudioproj\HELP\InsideLibrary\obj\Debug\InsideLibrary.dll
+E:\c#\visualstudioproj\HELP\InsideLibrary\obj\Debug\InsideLibrary.pdb
+D:\Новая папка\HELP\InsideLibrary\bin\Debug\InsideLibrary.dll
+D:\Новая папка\HELP\InsideLibrary\bin\Debug\InsideLibrary.pdb
+D:\Новая папка\HELP\InsideLibrary\obj\Debug\InsideLibrary.csprojAssemblyReference.cache
+D:\Новая папка\HELP\InsideLibrary\obj\Debug\InsideLibrary.dll
+D:\Новая папка\HELP\InsideLibrary\obj\Debug\InsideLibrary.pdb
+E:\c#\visualstudioproj\kdz2pr\HELP\HELP\InsideLibrary\bin\Debug\InsideLibrary.dll
+E:\c#\visualstudioproj\kdz2pr\HELP\HELP\InsideLibrary\bin\Debug\InsideLibrary.pdb
+E:\c#\visualstudioproj\kdz2pr\HELP\HELP\InsideLibrary\obj\Debug\InsideLibrary.csprojAssemblyReference.cache
+E:\c#\visualstudioproj\kdz2pr\HELP\HELP\InsideLibrary\obj\Debug\InsideLibrary.dll
+E:\c#\visualstudioproj\kdz2pr\HELP\HELP\InsideLibrary\obj\Debug\InsideLibrary.pdb
+D:\1 курс\stuff\kdz\HELP\HELP\InsideLibrary\bin\Debug\InsideLibrary.dll
+D:\1 курс\stuff\kdz\HELP\HELP\InsideLibrary\bin\Debug\InsideLibrary.pdb
+D:\1 курс\stuff\kdz\HELP\HELP\InsideLibrary\obj\Debug\InsideLibrary.csprojAssemblyReference.cache
+D:\1 курс\stuff\kdz\HELP\HELP\InsideLibrary\obj\Debug\InsideLibrary.dll
+D:\1 курс\stuff\kdz\HELP\HELP\InsideLibrary\obj\Debug\InsideLibrary.pdb
